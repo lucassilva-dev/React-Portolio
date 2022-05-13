@@ -1,70 +1,19 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1>Portfólio Pessoal Criado para aprendizado e desenvolvimento<h1>
+  <h5>O que foi Utilizado: EmailJs, ReactJs, Html, Css3, JavaScript, SwiperJs<h5>
+  <h6>Site totalmente responsivo, utilizando animações e tecnologias modernas voltado para o aprendizado e desenvolvimento<h6>
+<h2>Home<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168279877-15a84d25-56d4-4807-b730-d6829f97e49b.png' alt='imgHome' />
+<h2>Sobre Mim<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168280249-212f0a76-1ad8-4981-89da-bda3ee42a568.png' alt='imgAbout'/>
+ <h2>Experiência<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168280618-36b5a4c5-8ed5-4c38-84f1-f59461e993d1.png' alt='imgExperience'/>
+<h2>Serviços<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168280674-21602a9e-3f60-4798-bff3-083cf333131b.png' alt='imgServices'/>
+<h2>Pórtfolio<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168280732-2ddcf70e-d2e1-4026-b9ca-753c7ee4ecda.png' alt='imgPortfolio'/>
+<h2>Depoimentos<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168280943-5b439ac6-6df2-440f-852a-cababe06d84a.png' alt='imgTestimonials'/>
+<h2>Contato<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168281045-16a8864a-b761-4559-8ec9-b552f13df717.png' alt='imgContact'/>
+<h2>Rodapé<h2>
+<img src='https://user-images.githubusercontent.com/81441901/168281097-68c1e0cd-124e-42d3-a71a-009f5edfaed5.png' alt='imgFooter'/>
