@@ -1,4 +1,4 @@
-<h1>Portfólio Pessoal Criado para aprendizado e desenvolvimento<h1>
+<h1>Portfólio Pessoal | React.Js<h1>
   <h5>O que foi Utilizado: EmailJs, ReactJs, Html, Css3, JavaScript, SwiperJs<h5>
   <h6>Site totalmente responsivo, utilizando animações e tecnologias modernas voltado para o aprendizado e desenvolvimento<h6>
 <h2>Home<h2>
